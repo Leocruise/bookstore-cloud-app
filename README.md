@@ -1,5 +1,5 @@
 
-## Assignment 3
+## BookStore Application
 ### Cloud Computing: CSCI-5409
 
 #### Contents
@@ -11,24 +11,42 @@
 	Directory Structure:
 
 	~A3_Backend/ 
-		~docker~compose.yml
+		~docker-compose.yml
+		
 		~search_service/
+		
 			~Dockerfile
+			
 			~requirements.txt
+			
 			~search.py
+			
 			~search_log.txt
+			
 		~notes_service/
+		
 			~Dockerfile
+			
 			~requirements.txt
+			
 			~notes.py
+			
 		~catalog_service/
+		
 			~Dockerfile
+			
 			~requirements.txt
+			
 			~data.json
+			
 			~catalog.py
+			
 		~web-app/
+		
 			~index.html
+			
 			~css/
+			
 				~main.css
 			
 
