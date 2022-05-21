@@ -1,0 +1,9 @@
+{
+	"auth": {
+		"bookstorecloudapp72000aea": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}
